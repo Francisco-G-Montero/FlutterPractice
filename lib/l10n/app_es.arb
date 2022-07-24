@@ -1,0 +1,17 @@
+{
+  "ndw_widget_pokemon": "Pokémon",
+  "ndw_widget_pokemons": "Pokémones",
+  "ndw_widget_practice": "App de práctica",
+  "ndw_widget_storeData": "Guardar datos simples",
+  "ndw_widget_leagueSection": "Seccion League",
+  "ndw_widget_storesMap": "Mapa de Tiendas",
+  "ndw_widget_comingSoon": "Próximamente",
+  "prw_widget_description": "descripción",
+  "sdv_view_title": "Guarde su dato",
+  "sdv_view_btn_save": "Guardar texto localmente",
+  "sdv_view_empty_text": "Sin texto cargado...",
+  "sdv_view_btn_get": "Cargar texto",
+  "sdv_view_ti_helper": "Ingrese un texto",
+  "sdv_view_ti_placeholder": "Texto a guardar",
+  "asset_loading": "assets/es/loading.gif"
+}
