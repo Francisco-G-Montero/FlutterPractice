@@ -53,9 +53,6 @@ class LeagueChampionView extends StatelessWidget {
         }
         if (state is LeagueChampionEditing) {
           print("BlocListener LeagueChampionEditing");
-          print("BlocListener LeagueChampionEditing");
-          print("BlocListener LeagueChampionEditing");
-          print("BlocListener LeagueChampionEditing");
           return SingleChildScrollView(
             child: Padding(
               padding: const EdgeInsets.all(8.0),

@@ -51,7 +51,6 @@ class _StoresViewState extends State<StoresView> {
   Widget _buildBody() {
     return BlocBuilder<StoresMapBloc, StoresMapState>(builder: (_, state) {
       if (state is StoresMapLoading) {
-        print("PASE POR ACAAAAAAA _buildBody");
         _.read<StoresMapBloc>().add(InitializeMap());
         return Center(
           child: CircularProgressIndicator(),

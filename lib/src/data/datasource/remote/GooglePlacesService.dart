@@ -24,9 +24,9 @@ class GooglePlacesService {
     final jsonResult = json['result'] as Map<String, dynamic>;
     return Place.fromJson(jsonResult);
   }
-
+/*
   Future<Place> getPlaces(String type) async {
     final url = "https://maps.googleapis.com/maps/api/place/textsearch/json?type=$type&rankBy=distance&key=$key";
     return
-  }
+  }*/
 }

@@ -89,7 +89,6 @@ class PokemonResultWidget extends StatelessWidget {
   void _onTap() {
     if (onPokemonResultPressed != null) {
       onPokemonResultPressed(pokemonResult);
-      print("assdddd");
     }
   }
 
